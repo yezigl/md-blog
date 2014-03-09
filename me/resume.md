@@ -1,4 +1,4 @@
-## 简历 - 李德华
+## 李德华
 
 ## 基本信息
 * 男
@@ -23,7 +23,13 @@ Tag：`Java` `Spring` `MyBatis` `MySQL` `Redis` `Memcached` `Mongodb` `jQuery` `B
 Tag：`Java` `js` `Spring` `iBatis` `Oracle` `DB2`
 
 ## 专业技能
-* 熟练使用Java
+* 熟练使用Java语言，对Nodejs、Python、lua略有涉猎，有良好的编码习惯
+* 熟悉Spring、MyBatis、Tiles、Velocity等主流框架
+* 有多种数据库使用经验，MySQL/Oracle/Redis/Memcached/Mongodb...
+* 熟悉jQuery、Bootstrap，了解AngularJS
+* 开发Chrome扩展
+* 熟练使用Linux常用命令，能够使用bash编写脚本程序
+* 熟悉Nginx、Resin等应用的安装配置
 
 ## 教育经历
 * 2005年9月-2009年6月 山东大学 软件工程专业
