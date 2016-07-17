@@ -7,8 +7,16 @@
 * 邮箱：[lidehua2005&#64;gmail.com](mailto:lidehua2005&#64;gmail.com)
 
 ### 工作经验
+#### 美团
+*2014年6月-至今*
+
+1. 美团券系统服务化 2016.2-2016.7
+2. GroupAPI 2015.7-2016.1
+3. 美团开店宝(美团商家) Android APP开发 2014.6-2015.6
+
+
 #### 搜狐
-*2011年5月-至今*
+*2011年5月-2014年5月*
 
 1. [畅言社会化评论系统](http://changyan.sohu.com) 2012.9-2014.4
   - 负责项目架构设计及性能调优
@@ -29,9 +37,6 @@
   - 参与架构重构，将qdb改为Redis，改进原有业务流程
   - 负责新功能开发
   - 主要技术：Java/Spring/iBatis/qdb/Redis/Memcached/Oracle
-5. 其他项目
-  - 绿皮统计：使用fluentd和hadoop处理nginx日志，统计接口性能等
-  - [金币商城](http://gift.sohu.com)：功能开发维护
 
 #### 北京科蓝
 *2009年7月-2011年5月*
@@ -49,9 +54,10 @@
 
 ### 专业技能
 * 熟练使用Java语言，对Nodejs、Python、lua略有涉猎，有良好的编码习惯
+* 熟悉Android项目开发
 * 熟悉Spring、MyBatis、Tiles、Velocity等主流框架
-* 有多种数据库使用经验，MySQL/Oracle/Redis/Memcached/Mongodb...
-* 熟悉jQuery、Bootstrap，了解AngularJS
+* 有多种数据库使用经验，MySQL/Redis/Memcached/Mongodb...
+* 熟悉jQuery、Bootstrap、AngularJS
 * 熟练使用Linux常用命令，能够使用bash编写脚本程序
 * 熟悉Nginx、Resin等应用的安装配置
 * 高并发系统设计开发经验
